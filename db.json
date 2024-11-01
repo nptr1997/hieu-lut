@@ -1,4 +1,11 @@
 {
-  "mail": 1,
-  "password": "hello"
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "mail": {
+    "name": "typicode"
+  }
 }
