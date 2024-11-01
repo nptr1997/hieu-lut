@@ -6,6 +6,9 @@
     }
   ],
   "mail": {
-    "name": "typicode"
+    "value": "typicode"
+  }
+    "password": {
+    "value": "typicode"
   }
 }
